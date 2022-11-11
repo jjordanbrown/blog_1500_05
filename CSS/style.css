@@ -1,0 +1,115 @@
+body{
+    background-color: #BFBDB4;
+    margin: 0px auto 275px auto;
+}
+
+main{
+    margin: 0px 200px 0px 200px;
+    padding: 30px 100px 100px 100px;
+    background-color: #E1E0DB;
+    border-radius: 30px 30px 0px 0px;
+}
+
+header {
+    font-family: charter;
+    font-size: 30px;
+    padding-top:40px;
+    margin: 10px auto 10px auto;
+    text-align: center;
+    color: #E1E0DB;
+    line-height: 50px;
+    
+}
+
+h2{
+    text-align: center;
+    font-family: stilson;
+    font-size: 60px;
+    font-style: oblique;
+    margin:0px;
+    padding-top:50px;
+}
+
+a{
+    text-decoration:none;
+    color: #42413c;
+}
+
+a:hover{
+    color:#a6a682;
+}
+
+h3{
+    text-align: center;
+    padding-bottom: 5px;
+    font-family: neue montreal;
+    font-size: 35px;
+    font-weight: lighter;
+    line-height: 1px;
+    color: #42413c; 
+}
+
+h4{
+    text-align: center;
+    margin: 0px 30px;
+    font-family: neue montreal;
+    font-size: 18px;
+    color: #737372;
+    padding-bottom: 50px;
+    font-weight: lighter;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    text-align: center;
+    margin:0px 20px;
+    display:inline-block;
+}
+
+figure{
+    text-align: center;
+    margin: 0px 30px;
+    color: #737372;
+    font-family: neue montreal;
+    font-size: 14px;
+}
+
+time{
+    margin:0px 50px;
+    display:inline-block;
+    padding:50px 0px 30px 0px;
+    font-family: stilson;
+    font-style:oblique;
+    font-size: 18px;
+    color:#42413c;
+}
+
+p{
+    margin:0px 100px 0px 70px;
+    display:inline-block;
+    text-indent: 30px;
+    font-family: neue montreal;
+    font-size: 20px;
+    line-height: 30px;
+    color: #737372;
+}
+
+footer{
+    margin: 0px 200px 0px 200px;
+    padding: 100px 0px 40px 0px;
+    text-align: center;
+    background-color: #E1E0DB;
+    border-radius: 0px 0px 30px 30px;
+}
+
+span{
+    margin: 0px;
+    font-size: 18px;
+    color: #a6a682;
+    text-align: center;
+    font-family: charter;
+    line-height: 70px;
+    }
